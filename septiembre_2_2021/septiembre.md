@@ -12,4 +12,4 @@ Sub ejemplo()
 End Sub
 ```
 ## Diagrama de flujo
-![sistema](./img/sistema.png)
+![sistema](./img/sistema.PNG)
