@@ -12,4 +12,4 @@ Sub ejemplo()
 End Sub
 ```
 ## Diagrama de flujo
-! [caption for the pictur.](/path/to/Captura de pantalla(125).png)
+<img src="https://github.com/CarsOk/programacion-Oscarmarquez2003/blob/main/imagenes/Captura%20de%20pantalla%20(125).png">
