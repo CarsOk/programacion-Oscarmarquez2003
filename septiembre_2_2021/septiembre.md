@@ -12,4 +12,4 @@ Sub ejemplo()
 End Sub
 ```
 ## Diagrama de flujo
-![sistema](./img/sistema.PNG)
+<img src="https://github.com/CarsOk/programacion-Oscarmarquez2003/blob/main/img/sistema.png">
