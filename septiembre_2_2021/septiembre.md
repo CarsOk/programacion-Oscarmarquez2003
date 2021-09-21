@@ -4,6 +4,16 @@
 
  El instructor hablo sobre variables y se realizaron los siguientes ejercicios
 
+## Ejemplo de la clase 
+```
+Sub ejemplo()
+
+MsgBox "hola mundo"
+
+End Sub
+```
+
+## Tarea
 ```
 Sub ejemplo()
     MsgBox "Hola oscar marquez"
@@ -11,5 +21,5 @@ Sub ejemplo()
     MsgBox "A trabajar"
 End Sub
 ```
-## Diagrama de flujo
+## Diagrama de flujo starUML
 <img src="img/sistema.jpg" width="300">
